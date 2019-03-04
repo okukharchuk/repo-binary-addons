@@ -1,1 +1,1 @@
-pvr.iptvarchive https://github.com/okukharchuk/pvr.iptvsimple master
+pvr.iptvarchive https://github.com/okukharchuk/pvr.iptvarchive master
